@@ -1,6 +1,6 @@
 # Grille d'évaluation pour le projet 2, Ising Model
 
-## Realisation        24/24
+## Realisation        22/22
 
 Fonction Flip Spin et calcul de la différence d'énergie:     3/3
 
@@ -28,7 +28,7 @@ Bonnes pratiques:   2/3
 
 attention,m pourraît être encore mieux structuré (titre/souts-titre) afin que l'on s'y retrouve mieux.
 
-## TOTAL:   28/29
+## TOTAL:   28/27
 
 ## NOTE: 6.0
 
